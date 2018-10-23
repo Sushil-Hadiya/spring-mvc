@@ -1,6 +1,9 @@
 # User Management System
+
 **Technologies** : Spring-MVC, HTML, JSP
+
 **Web-Server** : Apache Tomcat
+
 **DB-Server** : MySql5.0
 
 **Brief Description** : This was a POC for User Management System. The main objective of this project is to manage the user’s 
